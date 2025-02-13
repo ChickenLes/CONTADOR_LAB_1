@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\Debug\contador.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>contador.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>contador.map</FILE>
+  <FILE>contador.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>27</LINE></SETUP>
+  <MAIN><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>50</LINE></MAIN>
+  <DELAY><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>120</LINE></DELAY>
+  <CONTROL1><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>69</LINE></CONTROL1>
+  <CONTROL2><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>78</LINE></CONTROL2>
+  <SUMA><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>88</LINE></SUMA>
+  <RESTA><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>95</LINE></RESTA>
+  <SUMA2><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>102</LINE></SUMA2>
+  <RESTA2><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>109</LINE></RESTA2>
+  <SUB_DELAY1><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>122</LINE></SUB_DELAY1>
+  <SUB_DELAY2><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>127</LINE></SUB_DELAY2>
+  <SUB_DELAY3><FILE>C:\Users\itzle\Documents\GitHub\MICROS\CONTADOR_LAB_1\contador\contador\main.asm</FILE><LINE>132</LINE></SUB_DELAY3>
+ </LABELS>
+</ASSEMBLER_INFO>
